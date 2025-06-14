@@ -32,7 +32,8 @@ This project was created as a beginner-friendly demonstration to explore how Par
 
 ### 🔍 User Input Interface
 
-![User Input Interface](./583ee233-3cd1-4765-8fbb-9520b6448420.png)
+![User Input Interface](![image](https://github.com/user-attachments/assets/c6ccb837-4d9c-483a-accc-eb302bb61418)
+)
 
 ---
 
