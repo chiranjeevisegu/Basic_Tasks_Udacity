@@ -39,13 +39,14 @@ This project was created as a beginner-friendly demonstration to explore how Par
 
 ### ✅ Packing List Output
 
-![Packing List Output](./559e4907-a55c-4c4f-b1fa-6e250466c174.png)
+![image](https://github.com/user-attachments/assets/36eb919c-e452-4fa3-b3f1-997998030f77)
 
 ---
 
 ### 💡 Packing Tips Assistant
 
-![Packing Assistant](./7f31241c-b811-4f67-b49b-b460ffaad5c9.png)
+![image](https://github.com/user-attachments/assets/19d895fb-01f6-460e-b936-72580205bf56)
+
 
 ---
 
